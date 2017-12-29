@@ -1,4 +1,6 @@
 # Merclain Technologies Pvt Ltd 
+![alt text](https://s3.amazonaws.com/owler-image/logo/merclain_owler_20160220_165340_original.jpg)
+
 
 ## Official Website Released.
 
